@@ -1,1 +1,1 @@
-# C-Sharp-projects
+Intro to C# (Prometheus course from Microsoft: https://goo.gl/duQfj4)
